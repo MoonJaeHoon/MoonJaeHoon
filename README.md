@@ -3,7 +3,7 @@
 
 **MoonJaeHoon/MoonJaeHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![DataAnaylst](https://baianat.s3.amazonaws.com/articles/art3100_1550065842897_ippi9x.jpg)
+![DataAnaylst](https://img.khan.co.kr/news/2019/11/08/l_2019110801001014500075871.jpg)
 
 Here are some ideas to get you started:
 
