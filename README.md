@@ -2,7 +2,7 @@
 
 **MoonJaeHoon/MoonJaeHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![PKC](https://t1.daumcdn.net/cfile/blog/2540694B52942FB512?original)
+![PKC]()
 
 Here are some ideas to get you started:
 
