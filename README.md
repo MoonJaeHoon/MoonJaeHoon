@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**MoonJaeHoon/MoonJaeHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello. This is Jae-hoon Moon, who really is into Machine Learning, AI. Currently in Naver BoostCamp AI Tech Education. I wanna be Irreplaceable Data Analyst, AI Enginner.
 
 ![PKC]
 
