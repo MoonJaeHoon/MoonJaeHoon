@@ -1,4 +1,5 @@
-Hello. This is Jae-hoon Moon, who really is into Machine Learning, AI. Currently in Naver BoostCamp AI Tech Education. I wanna be Irreplaceable Data Analyst, AI Enginner.
+Hello. This is Jae-hoon Moon, who really is into Machine Learning, AI. Currently in Naver BoostCamp AI Tech Education.
+I wanna be Irreplaceable AI Enginner.
 
 ![PKC]
 
