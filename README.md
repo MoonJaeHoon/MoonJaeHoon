@@ -1,6 +1,6 @@
 # Work Experience
 |Org|Date|Position|
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 |NEEDER|18.12.26 - 19.02.22|Data Analyst|
 |DataEdu|19.08.02 - 19.12.27|Researcher|
 |HANA Bank|20.07.14 - 20.12.03|Global Digital Center|
