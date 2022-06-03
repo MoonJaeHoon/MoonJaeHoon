@@ -13,6 +13,7 @@
 |:---:|:---:|:---:|
 |NaverBoostCamp|21.01.15 - 21.06.22|NLP / CV / Rec|
 |SSAFY|21.01.05 - 21.03.26|Algorithm&HTML|
+|PNU|14.03.02 - 20.08.25|Bachelor of Statistics|
 
 <br>
 
