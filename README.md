@@ -19,9 +19,14 @@
 # Competition
 |Org|Date|Description|Top|Rank|
 |:---:|:---:|:---:|:---:|:---:|
-|Dacon|22.01.28 - 22.02.28|[Konli] 한국어 문장 관계 분류 경진대회|1%|(2nd / 531Teams)|
+|Dacon|22.01.28 - 22.02.28|[Konli] 한국어 문장 관계 분류 경진대회|1%|(2nd / 531)|
 |NaverBoostCamp|21.04.12 - 21.04.22|[KLUE] Realtion Extraction|12%|(16th / 135)|
 |Dacon|20.03.01 - 20.04.15|행동 데이터 분석 인공지능 AI 경진대회|5%|(6th / 132)|
+
+
+<br>
+
+# Project
 
 <br>
 <br>
